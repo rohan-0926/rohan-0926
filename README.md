@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
-<h3 align="center">I'm excited to be at the deployement phase of my career as a Full stack developer.I'm Passionate and ambitious about my work and love to be on a team that questions possibilities.</h3>
+<h3 align="center">I'm a Student and a passionate Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-0926&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-0926" /> </p>
 
